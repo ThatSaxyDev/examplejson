@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "message": "User created successfully",
+    "data": {
+        "email": "b@gmail.com",
+        "username": "buser",
+        "account_number": "1648993148",
+        "user_id": "1648993148",
+        "first_name": "bnew",
+        "last_name": "bbuser",
+        "phone_number": "12345678901",
+        "verified": false
+    },
+    "tokens": {
+        "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFhMDhlN2M3ODNkYjhjOGFjNGNhNzJhZjdmOWRkN2JiMzk4ZjE2ZGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcGF5c2NvcmUiLCJhdWQiOiJwYXlzY29yZSIsImF1dGhfdGltZSI6MTY5NDkzNzkwNSwidXNlcl9pZCI6InZyOXRoQnJwbHhZUXF0aldZd3JhcXZIeGFQdjIiLCJzdWIiOiJ2cjl0aEJycGx4WVFxdGpXWXdyYXF2SHhhUHYyIiwiaWF0IjoxNjk0OTM3OTA1LCJleHAiOjE2OTQ5NDE1MDUsImVtYWlsIjoiYkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiYkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.piLQLqZFsdazS9Sc8s3NeFO3nChQYLE1qkZTyhydp3UTPzPX-bdyfeVycY9baqPfZSops4cGU52d7gsZPs9seKvKFCSTGo-Y8U5XViFWxz6ek0U64zkplyforRkHZgP2YP5cQxsN1B5cQhWWnt3DVydXZkGUFg2hqsk-21UlcO8Ac9GNXULFuqFLN37T6dDuZu_ssQ4jIIvqehec_1FXosgsV1RDRW296NobDMak9bQkE6sN2CUSruTDfa32gIOFFe4cFq8gosE1h1qFZMppxvdIFxFkFFAoHWBor2kfcQ9iM2UY_VK4NBOqE7jt8bDtoI84C-QvoXWvMkmNYFex3g",
+        "refreshToken": "AMf-vBwWoEgYEU-uDbAZmSRNZp9G9V-aWxOd7zkXtZNtbeXRZEghbg5X26_TOjhR49lXMh47POjNw9bH_iWikw6lEsaEvMhVDOqEd-w1CqyMDOyaFKYqYEEqMzTVzI5VGrmILCpJr4Qh-qbpgBSLG6sdXTK8tzyrrYwPYM3Tz_yhyfvgIqOag3Lmo_cqaQNjrrlrKJRsLcg3"
+    }
+}
